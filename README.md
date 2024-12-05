@@ -4,3 +4,5 @@
 <img src=Girly.gif alt='Sparkly Bow'>
 </p>
 
+<img src=Button(1).png width=150px length=50px>
+<img src=ContactButton.png width=150px length=50px>
