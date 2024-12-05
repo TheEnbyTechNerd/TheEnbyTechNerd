@@ -19,6 +19,10 @@
 <p>Please reach out to me for any collaboration opportunities.🙏🏽</p>
 </div>
 
-<div align=right>
-  <h1>a little about me👀</h1>
+<div align=center>
+<h1>a little about me👀</h1>
+<p>✨ I am currently a <strong>Software Engeering Major</strong> at Western Govenor's University</p>
+<p>✨ I am open to collaboration</p>
+<p>✨ Currently learning: JavaScript, TyepScript, Angular and APIs</p>
+<p>✨ Looking forward to builing my portfolio!</p>
 </div>
