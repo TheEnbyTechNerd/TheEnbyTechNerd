@@ -11,15 +11,12 @@
 
 <div align=left>
 <h1 align=center>welcome to my zone 🖥️</h1>
+<img align=right src=Me.png width=200px length=200px alt='Me as an emoji, brownskin and curly hair'>
 <p>Hello there! My name is Raven! 🎀 </p>
 <p>I love creating and designing programs.</p>
 <p>Love learning <em>allllllll</em> things tech!</p>
 <p>I'm a software engineer based out of <strong>North Carolina</strong></p>
 <p>Please reach out to me for any collaboration opportunities.🙏🏽</p>
-</div>
-
-<div align=right>
-<img src=Me.png alt='Me as an emoji, brownskin and curly hair>
 </div>
 
 <div align=right>
