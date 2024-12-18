@@ -6,7 +6,7 @@
 
 <p align=center>
 <img src=Button(1).png width=150px length=50px>
-<img src=ContactButton.png width=150px length=50px>
+<a href=https://www.linkedin.com/in/raven-wallace-07546928b/><img src=ContactButton.png width=150px length=50px></a>
 </p>
 
 <div align=left>
