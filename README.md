@@ -6,7 +6,7 @@
 
 <p align=center>
 <a href=https://www.linkedin.com/in/raven-wallace-07546928b/><img src=Button(1).png width=150px length=50px></a>
-<img src=ContactButton.png width=150px length=50px>
+<a href='mailto:ravenwallace@1027@gmail.com'><img src=ContactButton.png width=150px length=50px></a>
 </p>
 
 <div align=left>
